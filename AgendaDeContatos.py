@@ -1,4 +1,4 @@
-contatos =  {}
+contatos = {}
 
 #Pegar os valores de agenda.txt
 try:
