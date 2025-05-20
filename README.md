@@ -1,7 +1,9 @@
 # 📋Agenda de contatos em Python
 Projeto feito durante aula de Algoritmos e Lógica de Programação na Fatec Ferraz de Vasconcelos. 
-## 💻Funcionalidades
+
+# 💻Funcionalidades
 A agenda permite adicionar, consultar e excluir os contatos, salvando todas as informações em um arquivo .txt
+
 
 # Habilidades Desenvolvidas
 - Criação, chamada e retorno de funções com parâmetros
@@ -9,6 +11,7 @@ A agenda permite adicionar, consultar e excluir os contatos, salvando todas as i
 - Leitura e escrita em arquivos .txt
 - Tratamento de erros com try, except e operadores lógicos
 - Criação de interface de linha de comando amigável e interativa
+
 
 # Tecnologias Utilizadas
 - Python 3.13.2
